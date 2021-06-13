@@ -1,0 +1,7 @@
+This collection contains test images used in
+ 
+Wilhelm Burger, Mark J. Burge, "Digital Image Processing - 
+An Algorithmic Introduction Java und ImageJ",
+Copyright Springer Science+Business Media LLC, New York.
+
+www.imagingbook.com
