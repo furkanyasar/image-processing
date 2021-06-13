@@ -4,7 +4,7 @@ KOM3570 Image Processing in Industrial Systems Course Assignments. Written in Py
 [Assignment1](../master/Assignment1/)
 ---
 ### Image Sampling
-![]<img src="https://user-images.githubusercontent.com/26592410/121822752-6ae71300-cca9-11eb-8606-061726fe901e.png" height="400">
+<img src="https://user-images.githubusercontent.com/26592410/121822752-6ae71300-cca9-11eb-8606-061726fe901e.png" height="400">
 ### Image Quantizing
 <img src="https://user-images.githubusercontent.com/26592410/121822788-a681dd00-cca9-11eb-9f99-4150440f9096.png" height="400">
 ### Power Law Transform
