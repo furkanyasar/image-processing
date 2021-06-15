@@ -1,5 +1,5 @@
 # image-processing
-KOM3570 Image Processing in Industrial Systems Course Assignments. Written in Python. 
+ Image Processing in Industrial Systems Course Assignments. Written in Python. 
 
 [Assignment1](../master/Assignment1/)
 ---
